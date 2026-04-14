@@ -1,1 +1,0 @@
-from .swin_transformer import build_swin_transformer_fpn_backbone
